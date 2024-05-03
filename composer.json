@@ -13,18 +13,18 @@
     ],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/bpuig/laravel-subby/issues",
-        "source": "https://github.com/bpuig/laravel-subby",
+        "issues": "https://github.com/bluelupin/laravel-subby/issues",
+        "source": "https://github.com/bluelupin/laravel-subby",
         "docs": "https://github.com/bpuig/laravel-subby/blob/master/README.md"
     },
     "authors": [
         {
-            "name": "Borja Puig"
+            "name": "Bluelupin Technologies"
         }
     ],
     "require": {
         "php": "^8.0",
-        "laravel/framework": "^v9.0|^v10.0",
+        "laravel/framework": "^v9.0|^v10.0|^v11.0",
         "doctrine/dbal": "^2.13.3|^3.1.4"
     },
     "require-dev": {
